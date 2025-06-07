@@ -12,7 +12,7 @@ container1=$(./run.sh)
 curl http://localhost:5000/
 
 
-container2=(./updated-run.sh)
+container2=$(./updated-run.sh)
 curl http://localhost:5001/
 curl http://localhost:5001/greetings
 curl http://localhost:5001/listcontents
