@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t <> .
+docker build -t shama7g-assignment1:latest .
 

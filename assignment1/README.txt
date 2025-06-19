@@ -1,3 +1,6 @@
+name: Shama Gupta
+eid: sg54828
+
 Steps
 -----
 
